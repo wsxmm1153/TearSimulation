@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tearsSimulation", "tearsSimulation\tearsSimulation.vcxproj", "{A3A6A702-1040-4B3A-AAAB-82A47C85835A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A6A702-1040-4B3A-AAAB-82A47C85835A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3A6A702-1040-4B3A-AAAB-82A47C85835A}.Debug|Win32.Build.0 = Debug|Win32
+		{A3A6A702-1040-4B3A-AAAB-82A47C85835A}.Release|Win32.ActiveCfg = Release|Win32
+		{A3A6A702-1040-4B3A-AAAB-82A47C85835A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
